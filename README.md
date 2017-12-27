@@ -6,3 +6,5 @@ Using Python library PyDot, the regmi ancestry is created in "png" format image.
 Thank you!
 
 Contact email: regmi125@gmail.com
+
+![alt text](https://raw.githubusercontent.com/Suraj1127/regmi-ancestry/master/ancestry.png)
