@@ -7,4 +7,5 @@ Thank you!
 
 Contact email: regmi125@gmail.com
 
+Below is the png image of ancestry.
 ![alt text](https://raw.githubusercontent.com/Suraj1127/regmi-ancestry/master/ancestry.png)
